@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ch9_Resource</string>
+    <string name="intro_main">
+        박시윤, Bakhwee_bug
+    </string>
+    <string name="intro_detail">
+        숭실대학교, 글로벌미디어학부, 21학번
+    </string>
+    <string name="intro_hashtag1">#숭실대</string>
+    <string name="intro_hashtag2">#ENTJ</string>
+    <string name="intro_hashtag3">#안드로이드</string>
+    <string name="intro_hashtag4">#앱개발</string>
+
+    <string name="intro_button">더 알아보기</string>
+    <string name="intro_delay">연락처 복사하기</string>
+</resources>

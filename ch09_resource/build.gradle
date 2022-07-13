@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
@@ -40,4 +41,15 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+=======
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    id 'com.android.application' version '7.2.1' apply false
+    id 'com.android.library' version '7.2.1' apply false
+    id 'org.jetbrains.kotlin.android' version '1.6.10' apply false
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+>>>>>>> 79ef402ef83eaf0388bf39dbb22ff59ef5ba1584
 }

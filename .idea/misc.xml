@@ -10,6 +10,19 @@
         <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch14_receiverr/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.171" />
         <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch14_receiverr/src/main/res/drawable/ic_launcher_background.xml" value="0.171" />
         <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch14_receiverr/src/main/res/layout/activity_main.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch16_provider/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch16_provider/src/main/res/layout/activity_main.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch16_provider/src/main/res/xml/file_path.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch17_database/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.157" />
+        <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch17_database/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch17_database/src/main/res/layout/activity_add.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch17_database/src/main/res/layout/activity_main.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch17_database/src/main/res/layout/activity_setting.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch17_database/src/main/res/layout/item_recyclerview.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch17_database/src/main/res/menu/menu_add.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch17_database/src/main/res/xml/settings.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch17_database2/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch17_database2/src/main/res/layout/layout.xml" value="0.1" />
         <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch7_layout/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch8_event/src/main/res/drawable/round_button.xml" value="0.2265" />
         <entry key="..\:/Users/parks/AndroidStudioProjects/MyApplication/ch8_event/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />

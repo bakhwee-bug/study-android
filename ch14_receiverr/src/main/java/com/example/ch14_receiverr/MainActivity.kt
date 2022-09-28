@@ -22,6 +22,8 @@ class MainActivity : AppCompatActivity() {
         val binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        val bootingIntent = Intent(this, MyReceiver2::class.java)
+        sendBroadcast(bootingIntent)
 
         //배터리
         registerReceiver(null, IntentFilter(Intent.ACTION_BATTERY_CHANGED))!!.apply {

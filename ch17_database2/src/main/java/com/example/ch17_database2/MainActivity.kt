@@ -21,8 +21,8 @@ class MainActivity : AppCompatActivity() {
 
         binding.WriteBtn.setOnClickListener{
             val writeStream: OutputStreamWriter = file.writer()
-            writeStream.write("hello world")
-            writeStream.flush()
+            writeStream.write("hello world")//버퍼에 씀
+            writeStream.flush()//버퍼에 있ㄴ는 거 파일에 넣어줌
         }
 
         binding.CheckBtn.setOnClickListener {
